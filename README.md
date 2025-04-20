@@ -1,14 +1,7 @@
-                                                                                                                                               
-                              gp                        ,,          ,,                                         ,,                              
-  .g8""8q.           `7MM     \/             .M"""bgd `7MM          db   mm        .M"""bgd                    db             mm               
-.dP'    `YM.           MM     `'            ,MI    "Y   MM               MM       ,MI    "Y                                   MM               
-dM'      `MM M"""MMV   MM  ,MP' ,pP"Ybd     `MMb.       MMpMMMb.  `7MM mmMMmm     `MMb.      ,p6"bo `7Mb,od8 `7MM `7MMpdMAo.mmMMmm ,pP"Ybd     
-MM        MM '  AMV    MM ;Y    8I   `"       `YMMNq.   MM    MM    MM   MM         `YMMNq. 6M'  OO   MM' "'   MM   MM   `Wb  MM   8I   `"     
-MM.      ,MP   AMV     MM;Mm    `YMMMa.     .     `MM   MM    MM    MM   MM       .     `MM 8M        MM       MM   MM    M8  MM   `YMMMa.     
-`Mb.    ,dP'  AMV  ,   MM `Mb.  L.   I8     Mb     dM   MM    MM    MM   MM       Mb     dM YM.    ,  MM       MM   MM   ,AP  MM   L.   I8     
-  `"bmmd"'   AMMmmmM .JMML. YA. M9mmmP'     P"Ybmmd"  .JMML  JMML..JMML. `Mbmo    P"Ybmmd"   YMbmd' .JMML.   .JMML. MMbmmd'   `MbmoM9mmmP'     
-                                                                                                                    MM                         
-                                                                                                                  .JMML.                       
+ __  __      .  __      __         ___     __   __   __     __  ___  __     
+/  \  / |__/ ' /__`    /__` |__| |  |     /__` /  ` |__) | |__)  |  /__`    
+\__/ /_ |  \   .__/    .__/ |  | |  |     .__/ \__, |  \ | |     |  .__/    
+                                                                                                                                                                                    .JMML.                       
 Ozk Pre-apps Installer
 
 Este script automatiza a instalação de diversas aplicações úteis no seu sistema Linux, com suporte para várias distribuições. Além disso, ele configura o Flatpak e instala aplicativos via APT e Flatpak, dependendo da sua distribuição.
